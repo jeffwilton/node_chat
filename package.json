@@ -1,0 +1,25 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "NodeJS Distributed Chat System",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffwilton/node_chat.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Chat",
+    "MQTT",
+    "JavaScript"
+  ],
+  "author": "Jeff Wilton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffwilton/node_chat/issues"
+  },
+  "homepage": "https://github.com/jeffwilton/node_chat#readme"
+}
